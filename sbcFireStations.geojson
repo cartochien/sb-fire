@@ -1,0 +1,226 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.770291,34.451638 ]
+    },
+    "properties": {
+    "Station":"Fire Headquarters",
+    "Street":"4410 Cathedral Oaks Road",
+    "City":"Santa Barbara, CA 93110",
+    "Phone":"(805) 681-5500"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.870131,34.42599 ]
+    },
+    "properties": {
+    "Station":"Station 11",
+    "Street":"6901 Frey Way",
+    "City":"Goleta, CA 93117",
+    "Phone":"(805) 681-5511"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.812131,34.44317 ]
+    },
+    "properties": {
+    "Station":"Station 12",
+    "Street":"5330 Calle Real",
+    "City":"Goleta, CA 93117",
+    "Phone":"(805) 681-5512"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.779748,34.43889 ]
+    },
+    "properties": {
+    "Station":"Station 13",
+    "Street":"4570 Hollister Avenue",
+    "City":"Santa Barbara, CA 93110",
+    "Phone":"(805) 681-5513"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.853315,34.443216 ]
+    },
+    "properties": {
+    "Station":"Station 14",
+    "Street":"320 Los Carneros",
+    "City":"Goleta, CA 93117",
+    "Phone":"(805) 681-5514"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.710442,34.446334 ]
+    },
+    "properties": {
+    "Station":"Station 15",
+    "Street":"2491 Foothill Road",
+    "City":"Santa Barbara, CA 93105",
+    "Phone":"(805) 681-5515"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.85322,34.422026 ]
+    },
+    "properties": {
+    "Station":"Station 17",
+    "Street":"UCSB, Mesa Road, Bldg 547",
+    "City":"Santa Barbara, CA 93106\n",
+    "Phone":"(805) 681-5517"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.214502,34.476667 ]
+    },
+    "properties": {
+    "Station":"Station 18",
+    "Street":"17200 Mariposa Reina",
+    "City":"Gaviota, CA 93117",
+    "Phone":"(805) 681-5518"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.443686,34.864462 ]
+    },
+    "properties": {
+    "Station":"Station 21",
+    "Street":"335 Union Avenue",
+    "City":"Orcutt, CA 93455",
+    "Phone":"(805) 934-6292"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.401794,34.865693 ]
+    },
+    "properties": {
+    "Station":"Station 22",
+    "Street":"1596 Tiffany Drive",
+    "City":"Santa Maria, CA 93455",
+    "Phone":"(805) 934-6293"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.294334,34.866763 ]
+    },
+    "properties": {
+    "Station":"Station 23\n",
+    "Street":"5003 Depot Avenue",
+    "City":"Santa Maria, CA 93454",
+    "Phone":"(805) 934-6294"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.279832,34.745107 ]
+    },
+    "properties": {
+    "Station":"Station 24",
+    "Street":"99 Centennial",
+    "City":"Los Alamos, CA 93440",
+    "Phone":"(805) 934-6215"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.141479,34.593602 ]
+    },
+    "properties": {
+    "Station":"Station 30",
+    "Street":"1644 Oak Street",
+    "City":"Solvang, CA 93464",
+    "Phone":"(805) 686-8184"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.196768,34.613296 ]
+    },
+    "properties": {
+    "Station":"Station 31\n",
+    "Street":"168 West Highway 246",
+    "City":"Buellton, CA 93427\n",
+    "Phone":"(805) 686-5062"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.069525,34.607753 ]
+    },
+    "properties": {
+    "Station":"Station 32",
+    "Street":"906 Airport Road",
+    "City":"Santa Ynez, CA 93460",
+    "Phone":"(805) 686-5058"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.681955,34.94575 ]
+    },
+    "properties": {
+    "Station":"Station 41",
+    "Street":"41 Newsome Street",
+    "City":"New Cuyama, CA 93254",
+    "Phone":"(661) 766-2469"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.447251,34.691061 ]
+    },
+    "properties": {
+    "Station":"Station 51",
+    "Street":"3510 Harris Grade Road",
+    "City":"Lompoc, CA 93436",
+    "Phone":"(805) 737-7742"
+    }
+  }
+]
+}
